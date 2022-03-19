@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jay Dale
-- 👀 I’m want to explore Data Science
+### **Hola, I’m Jay Dale** 👋 
+- 👀 I want to explore Data Science
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on 
+- 💞️ Worked 
 - 📫 How to reach me: Twitter - @Jaydale3221
 - ⭐ Fun Fact: My go-to comfort-binge "FRIENDS"
 
