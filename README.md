@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: Twitter - @Jaydale3221
-- ⭐ Fun Fact: Your go-to comfort-binge "FRIENDS"
+- ⭐ Fun Fact: My go-to comfort-binge "FRIENDS"
 
 <!---
 Jaydale3221/Jaydale3221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
