@@ -1,11 +1,12 @@
  <h1 align="center">Hi 👋, I'm Jay Dale</h1>
 <h3 align="center">A passionate Software Developer and Data Science Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Deep Learning**
+- 🌱 I’m currently learning - **Python, Machine Learning, Deep Learning**
 
 - 📫 How to reach me - **jaydale207@gmail.com**
 
-- ⚡ Fun fact **My go-to comfort-binge "FRIENDS"**
+- ⚡ Fun fact - **My go-to comfort-binge "FRIENDS"**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
