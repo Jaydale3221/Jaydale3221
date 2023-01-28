@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning - **Python, SQL, Tableau, Machine Learning, Deep Learning**
 
-- 📫 How to reach me - **jaydale7452@gmail.com.com**
+- 📫 How to reach me - **jaydale7452@gmail.com**
 
 - ⚡ Fun fact - **My go-to comfort-binge "FRIENDS"**
 
