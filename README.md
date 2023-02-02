@@ -5,7 +5,7 @@
 
 - 📫 How to reach me - **jaydale7452@gmail.com**
 
-- ⚡ Fun fact - **My go-to comfort-binge "FRIENDS."**
+- ⚡ Fun fact - **My go-to comfort-binge "FRIENDS"**
 
 
 <h3 align="left">Connect with me:</h3>. 
