@@ -1,27 +1,22 @@
- <h1 align="center">Hola 👋, I'm Jay Dale</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+## **About Me**
+Hey there! I'm Jay, a data geek who loves turning numbers into stories 📊. When I'm not busy wrangling data with Python or SQL, you can find me binge-watching *FRIENDS* (yes, for the 100th time!) or dreaming up new ways to automate my life. I believe data is like a puzzle—challenging but super satisfying when you crack it. Let’s connect and create something awesome together! 🚀
 
-- 🌱 I’m currently learning - **Python, SQL, Tableau, Machine Learning, Deep Learning**
+---
 
-- 📫 How to reach me - **jaydale7452@gmail.com**
+## **Skills**
+- **Languages:** Python 🐍, SQL 📂, R 📊
+- **Data Visualization:** Tableau 🎨, Power BI 📈, Excel 📉
+- **Tools:** Snowflake ❄️, Google BigQuery 🔍, AWS (Redshift, S3) ☁️, Git 🐙
+- **Machine Learning:** Regression 📏, Classification 🏷️, Clustering 🧩, Predictive Modeling 🔮
 
-- ⚡ Fun fact - **My go-to comfort-binge "FRIENDS"**
 
+## **Let’s Connect!**
+- 📧 Email: [jaydale7452@gmail.com](mailto:jaydale7452@gmail.com)
+- 💼 LinkedIn: [Jay Dale](#)
+- 🐦 Twitter: [@jaydale3221](#)
 
-<h3 align="left">Connect with me:</h3>. 
-<p align="left">
-<a href="https://twitter.com//jaydale3221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/jaydale3221" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//jaydale3221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/jaydale3221/" height="30" width="40" /></a>
-<a href="https://fb.com//jay.dale.7121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/jay.dale.7121/" height="30" width="40" /></a>
+---
+
+<p align="center"> 
+  Thanks for visiting my profile! 😊
 </p>
-
-
-
-<h3 align="left">Languages and Tools:</h3> 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jaydale3221&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
